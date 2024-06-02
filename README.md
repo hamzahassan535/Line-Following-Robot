@@ -42,4 +42,4 @@ This project implements a line-following robot using Arduino and L298N motor dri
 
 • The robot will automatically follow the line based on sensor inputs.
 
-![image](https://github.com/hamzahassan535/Line-Following-Robot/assets/135664238/44505ebc-db7d-4f79-9d37-7ae4c0b9d360)
+![image](https://github.com/hamzahassan535/Line-Following-Robot/assets/135664238/842a3c4c-1b2d-40ce-b252-f8def1009aa7)
